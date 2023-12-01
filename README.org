@@ -1,0 +1,9 @@
+* peltadot
+
+Extends Lisp’s Types And Dispatches Over Them
+
+|---------+---------------------------------------------|
+| source  | git:https://gitlab.com/digikar/peltadot.git |
+| commit  | 6767843                                     |
+| systems | peltadot                                    |
+|---------+---------------------------------------------|
