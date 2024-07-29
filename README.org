@@ -4,6 +4,6 @@ Extends Lisp’s Types And Dispatches Over Them
 
 |---------+---------------------------------------------|
 | source  | git:https://gitlab.com/digikar/peltadot.git |
-| commit  | 085f474                                     |
+| commit  | 5a28585                                     |
 | systems | peltadot                                    |
 |---------+---------------------------------------------|
